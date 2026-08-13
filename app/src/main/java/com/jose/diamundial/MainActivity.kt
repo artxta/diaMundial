@@ -53,6 +53,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.sp
 import com.jose.diamundial.data.EventParser
 import com.jose.diamundial.domain.Event
@@ -750,6 +751,20 @@ fun EventCard(event: Event, context: android.content.Context, onFavoriteChanged:
     }
 }
 
+@Preview(showBackground = true, name = "Notification Settings")
+@Composable
+fun NotificationSettingsPreview() {
+    DiaMundialTheme {
+        NotificationSettings(
+            hour = 9,
+            minute = 0,
+            notificationsEnabled = true,
+            onNotificationsEnabledChanged = {},
+            onShowTimePicker = {}
+        )
+    }
+}
+
 @Composable
 fun NotificationSettings(
     hour: Int,
@@ -826,6 +841,164 @@ fun NotificationSettings(
                     stringResource(R.string.notification_daily_disabled),
                 fontSize = 12.sp,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+        }
+    }
+}
+
+@Preview(showBackground = true, name = "Event Detail Dialog")
+@Composable
+fun EventDetailDialogPreview() {
+    DiaMundialTheme {
+        Surface(modifier = Modifier.fillMaxSize()) {
+            AlertDialog(
+                onDismissRequest = {},
+                title = {
+                    Text(
+                        text = "Día Mundial del Piano",
+                        fontWeight = FontWeight.Bold,
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                },
+                text = {
+                    Column(modifier = Modifier.verticalScroll(rememberScrollState())) {
+                        Text(
+                            text = "15 de enero",
+                            fontSize = 13.sp,
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = Modifier.padding(bottom = 8.dp)
+                        )
+                        Text(
+                            text = "El Día Mundial del Piano se celebra cada 15 de enero, fecha del nacimiento del compositor polaco Frédéric Chopin.",
+                            modifier = Modifier.padding(bottom = 8.dp)
+                        )
+                        Text(
+                            text = "🌍 Global",
+                            fontSize = 12.sp,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                    }
+                },
+                confirmButton = {
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween,
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        TextButton(onClick = {}) {
+                            Text("Opciones")
+                            Icon(
+                                Icons.AutoMirrored.Filled.KeyboardArrowRight,
+                                contentDescription = null,
+                                modifier = Modifier.padding(start = 4.dp)
+                            )
+                        }
+                        TextButton(onClick = {}) {
+                            Icon(
+                                Icons.Default.Share,
+                                contentDescription = null,
+                                modifier = Modifier.padding(end = 4.dp)
+                            )
+                            Text("Compartir")
+                        }
+                    }
+                },
+                dismissButton = {
+                    Column(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalAlignment = Alignment.CenterHorizontally
+                    ) {
+                        Row(
+                            modifier = Modifier
+                                .padding(horizontal = 8.dp, vertical = 4.dp),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Icon(
+                                imageVector = Icons.Default.FavoriteBorder,
+                                contentDescription = null,
+                                tint = MaterialTheme.colorScheme.primary,
+                                modifier = Modifier.size(18.dp)
+                            )
+                            Spacer(modifier = Modifier.width(4.dp))
+                            Text(
+                                text = "Añadir a favoritos",
+                                fontSize = 12.sp,
+                                color = MaterialTheme.colorScheme.primary
+                            )
+                        }
+                        TextButton(onClick = {}) {
+                            Text("Cerrar")
+                        }
+                    }
+                }
+            )
+        }
+    }
+}
+
+@Preview(showBackground = true, name = "Multiple Events Dialog")
+@Composable
+fun MultipleEventsDialogPreview() {
+    val sampleEvents = listOf(
+        Event(date = "01-15", title = "Día Mundial del Piano", description = "Celebra la música.", country = "Global"),
+        Event(date = "01-15", title = "Día del Constructivismo", description = "Movimiento artístico ruso.", country = "Rusia")
+    )
+    DiaMundialTheme {
+        Surface(modifier = Modifier.fillMaxSize()) {
+            AlertDialog(
+                onDismissRequest = {},
+                title = {
+                    Text(
+                        text = "2 celebraciones este día",
+                        fontWeight = FontWeight.Bold
+                    )
+                },
+                text = {
+                    Column(modifier = Modifier.verticalScroll(rememberScrollState())) {
+                        Text(
+                            text = "15 de enero",
+                            fontSize = 13.sp,
+                            color = MaterialTheme.colorScheme.primary,
+                            modifier = Modifier.padding(bottom = 8.dp)
+                        )
+                        sampleEvents.forEach { event ->
+                            Card(
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .padding(bottom = 8.dp),
+                                colors = CardDefaults.cardColors(
+                                    containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f)
+                                )
+                            ) {
+                                Column(modifier = Modifier.padding(12.dp)) {
+                                    Text(
+                                        text = event.title,
+                                        fontSize = 15.sp,
+                                        fontWeight = FontWeight.Medium,
+                                        modifier = Modifier.padding(bottom = 4.dp)
+                                    )
+                                    Text(
+                                        text = event.description,
+                                        fontSize = 12.sp,
+                                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                        maxLines = 2
+                                    )
+                                    Text(
+                                        text = "🌍 ${event.country}",
+                                        fontSize = 11.sp,
+                                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                        modifier = Modifier.padding(top = 4.dp)
+                                    )
+                                }
+                            }
+                        }
+                    }
+                },
+                confirmButton = {
+                    TextButton(onClick = {}) {
+                        Text("Cerrar")
+                    }
+                }
             )
         }
     }
@@ -1079,39 +1252,11 @@ fun CalendarSection(
             },
             title = {
                 if (isEditing) Text(stringResource(R.string.edit_celebration), fontWeight = FontWeight.Bold)
-                else Row(
-                    modifier = Modifier.fillMaxWidth(),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text(
-                        text = selectedDayEvent!!.title,
-                        fontWeight = FontWeight.Bold,
-                        modifier = Modifier.weight(1f)
-                    )
-                    Row(
-                        modifier = Modifier
-                            .clickable {
-                                settingsManager.toggleFavorite(selectedDayEvent!!.date)
-                                isFav = !isFav
-                                onEventsChanged()
-                            }
-                            .padding(horizontal = 8.dp, vertical = 4.dp),
-                        verticalAlignment = Alignment.CenterVertically
-                    ) {
-                        Icon(
-                            imageVector = if (isFav) Icons.Default.Favorite else Icons.Default.FavoriteBorder,
-                            contentDescription = null,
-                            tint = if (isFav) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary,
-                            modifier = Modifier.size(18.dp)
-                        )
-                        Spacer(modifier = Modifier.width(4.dp))
-                        Text(
-                            text = if (isFav) stringResource(R.string.remove_favorite) else stringResource(R.string.add_favorite),
-                            fontSize = 12.sp,
-                            color = if (isFav) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary
-                        )
-                    }
-                }
+                else Text(
+                    text = selectedDayEvent!!.title,
+                    fontWeight = FontWeight.Bold,
+                    modifier = Modifier.fillMaxWidth()
+                )
             },
             text = {
                 Column(
@@ -1294,11 +1439,39 @@ fun CalendarSection(
             },
             dismissButton = {
                 if (!isEditing) {
-                    TextButton(onClick = {
-                        selectedDayEvent = null
-                        isEditing = false
-                    }) {
-                        Text(stringResource(R.string.close))
+                    Column(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalAlignment = Alignment.CenterHorizontally
+                    ) {
+                        Row(
+                            modifier = Modifier
+                                .clickable {
+                                    settingsManager.toggleFavorite(selectedDayEvent!!.date)
+                                    isFav = !isFav
+                                    onEventsChanged()
+                                }
+                                .padding(horizontal = 8.dp, vertical = 4.dp),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Icon(
+                                imageVector = if (isFav) Icons.Default.Favorite else Icons.Default.FavoriteBorder,
+                                contentDescription = null,
+                                tint = if (isFav) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary,
+                                modifier = Modifier.size(18.dp)
+                            )
+                            Spacer(modifier = Modifier.width(4.dp))
+                            Text(
+                                text = if (isFav) stringResource(R.string.remove_favorite) else stringResource(R.string.add_favorite),
+                                fontSize = 12.sp,
+                                color = if (isFav) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary
+                            )
+                        }
+                        TextButton(onClick = {
+                            selectedDayEvent = null
+                            isEditing = false
+                        }) {
+                            Text(stringResource(R.string.close))
+                        }
                     }
                 }
             }
@@ -1645,6 +1818,22 @@ fun FavoritesScreen(
     }
 }
 
+@Preview(showBackground = true, name = "Day Cell - With Event")
+@Composable
+fun DayCellPreview() {
+    DiaMundialTheme {
+        DayCell(day = 15, hasEvent = true, isToday = true, isFavorite = true, onClick = {})
+    }
+}
+
+@Preview(showBackground = true, name = "Day Cell - No Event")
+@Composable
+fun DayCellNoEventPreview() {
+    DiaMundialTheme {
+        DayCell(day = 20, hasEvent = false, isToday = false, isFavorite = false, onClick = {})
+    }
+}
+
 @Composable
 fun DayCell(day: Int, hasEvent: Boolean, isToday: Boolean = false, isFavorite: Boolean = false, onClick: () -> Unit, onLongClick: () -> Unit = {}) {
     val screenWidth = LocalConfiguration.current.screenWidthDp.dp
@@ -1708,6 +1897,14 @@ fun DayCell(day: Int, hasEvent: Boolean, isToday: Boolean = false, isFavorite: B
                 )
             }
         }
+    }
+}
+
+@Preview(showBackground = true, name = "Scroll Hint Indicator")
+@Composable
+fun ScrollHintIndicatorPreview() {
+    DiaMundialTheme {
+        ScrollHintIndicator(onDismiss = {})
     }
 }
 

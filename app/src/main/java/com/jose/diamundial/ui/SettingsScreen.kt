@@ -24,6 +24,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.google.gson.Gson
@@ -284,6 +285,14 @@ class SettingsManager(private val context: Context) {
 data class ThemeOption(val labelRes: Int, val mode: Int)
 data class NotificationOption(val labelRes: Int, val importance: Int, val descriptionRes: Int)
 data class LanguageOption(val labelRes: Int, val lang: String)
+
+@Preview(showBackground = true, name = "Settings Screen")
+@Composable
+fun SettingsScreenPreview() {
+    com.jose.diamundial.ui.theme.DiaMundialTheme {
+        SettingsScreen()
+    }
+}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
