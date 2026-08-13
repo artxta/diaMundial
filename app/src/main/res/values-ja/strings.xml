@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">世界の日</string>
+    <string name="home">ホーム</string>
+    <string name="settings">設定</string>
+    <string name="today_world_day">世界の日</string>
+    <string name="no_world_day_today">今日の世界の日はありません</string>
+    <string name="country">国</string>
+    <string name="share_whatsapp">WhatsAppで共有</string>
+    <string name="notifications">通知</string>
+    <string name="current_time">現在時刻</string>
+    <string name="change_notification_time">通知時刻を変更</string>
+    <string name="select_time">時刻を選択</string>
+    <string name="accept">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="calendar">カレンダー</string>
+    <string name="prev_month">前月</string>
+    <string name="next_month">翌月</string>
+    <string name="day_mon">月</string>
+    <string name="day_tue">火</string>
+    <string name="day_wed">水</string>
+    <string name="day_thu">木</string>
+    <string name="day_fri">金</string>
+    <string name="day_sat">土</string>
+    <string name="day_sun">日</string>
+    <string name="close">閉じる</string>
+    <string name="language_change_warning">言語を変更すると、変更を適用するためにアプリケーションが閉じます。続行しますか？</string>
+    <string name="edit">編集</string>
+    <string name="share">共有</string>
+    <string name="edit_celebration">イベントを編集</string>
+    <string name="name_label">名前</string>
+    <string name="description_label">説明</string>
+    <string name="save">保存</string>
+    <string name="celebration_saved">イベントを保存しました</string>
+    <string name="total_days">合計日数</string>
+    <string name="settings_title">設定</string>
+    <string name="appearance">外観</string>
+    <string name="app_theme">アプリのテーマ</string>
+    <string name="theme_system">システムに従う</string>
+    <string name="theme_light">ライトモード</string>
+    <string name="theme_dark">ダークモード</string>
+    <string name="notifications_mode">通知モード</string>
+    <string name="notifications_mode_desc">通知の受信方法を制御</string>
+    <string name="notif_none">通知なし</string>
+    <string name="notif_none_desc">毎日の通知は表示されません</string>
+    <string name="notif_silent">サイレント通知</string>
+    <string name="notif_silent_desc">バーにサウンド・振動なしで表示</string>
+    <string name="notif_sound">サウンド付き通知</string>
+    <string name="notif_sound_desc">サウンド付き標準通知</string>
+    <string name="welcome_title">世界の日へようこそ</string>
+    <string name="welcome_message_today">今日は：%s</string>
+    <string name="welcome_message_none">今日の国際デーはありません</string>
+    <string name="welcome_description">世界のどこで毎日何が祝われているかを発見しましょう。\n\nこのアプリでできること：\n\n✅ 各日の世界の日、国際デー、記念日を確認。\n✅ 異なる国の祝祭を探索。\n✅ 独自の特別な日とカスタム記念日を作成。\n✅ お気に入りの祝祭を編集・整理。\n✅ 重要なイベントを保存して、友達、家族、コミュニティと共有。\n✅ 各祝祭の豆知識や情報を発見。\n\n毎日には何か祝うべきことがあります。それを発見するか、自分だけの祝祭を作りましょう。</string>
+    <string name="welcome_skip">この画面を再表示しない</string>
+    <string name="data">データ</string>
+    <string name="world_day_file">世界の日ファイル</string>
+    <string name="import_desc">カスタムJSONファイルをインポート。</string>
+    <string name="active_file">アクティブファイル</string>
+    <string name="change">変更</string>
+    <string name="restore">復元</string>
+    <string name="import_json">JSONファイルをインポート</string>
+    <string name="export_desc">現在のJSON設定をエクスポート</string>
+    <string name="export_json">JSONファイルをエクスポート</string>
+    <string name="format_hint">形式: [{\"date\": \"MM-dd\", \"title\": \"...\", \"description\": \"...\", \"country\": \"スペイン\"}]</string>
+    <string name="restore_defaults">デフォルトに復元</string>
+    <string name="restore_confirm">インポートされたファイルが削除され、デフォルトの世界の日に戻ります。</string>
+    <string name="result">結果</string>
+    <string name="import_success">ファイルのインポートに成功しました</string>
+    <string name="import_error">エラー:有効なJSON形式ではありません</string>
+    <string name="export_success">ファイルのエクスポートに成功しました</string>
+    <string name="export_error">エクスポートエラー</string>
+    <string name="language">言語</string>
+    <string name="language_title">アプリの言語</string>
+    <string name="lang_system">システムに従う</string>
+    <string name="lang_english">英語</string>
+    <string name="lang_french">フランス語</string>
+    <string name="lang_chinese">中国語</string>
+    <string name="lang_japanese">日本語</string>
+    <string name="lang_portuguese">ポルトガル語</string>
+    <string name="lang_catalan">カタルーニャ語</string>
+    <string name="developer_info">開発者情報</string>
+    <string name="developer_name">José Alberto Torresano</string>
+    <string name="app_version">バージョン 1.0.0-12</string>
+    <string name="github">GitHub</string>
+    <string name="play_store_on">Google Playで利用可能</string>
+
+    <string name="total_days_format">合計日数: %d</string>
+    <string name="share_with">共有先…</string>
+    <string name="notification_time_format">時刻: %1$02d:%2$02d</string>
+    <string name="notifications_enabled">通知が有効です</string>
+    <string name="notifications_disabled">通知が無効です</string>
+    <string name="notification_daily_enabled">毎日のイベント通知を受け取ることができます。</string>
+    <string name="notification_daily_disabled">毎日の通知を受け取りません。</string>
+    <string name="all_countries">すべて</string>
+    <string name="filter_by_country">国でフィルター</string>
+    <string name="go_to_today">今日へ</string>
+    <string name="default_country">スペイン</string>
+    <string name="modified">変更済み</string>
+    <string name="celebration_restored">イベントが復元されました</string>
+    <string name="options">オプション</string>
+    <string name="add_celebration">イベントを追加</string>
+    <string name="date_format_day">日: %1$02d/%2$02d/%3$d</string>
+    <string name="country_label_format">国: %s</string>
+    <string name="celebration_created">イベントが作成されました</string>
+    <string name="create">作成</string>
+    <string name="scroll_hint">スワイプしてもっと見る</string>
+    <string name="scroll_hint_desc">下にスクロール</string>
+    <string name="notification_channel_name">世界の日</string>
+    <string name="notification_channel_description">世界の日の通知</string>
+    <string name="lang_spanish">スペイン語</string>
+    <string name="multiple_events_title">この日のイベント%d件</string>
+    <string name="multiple_events_today">今日は%d件のイベントがあります</string>
+    <string name="tap_to_change">タップして変更</string>
+    <string name="favorites">お気に入り</string>
+    <string name="no_favorites">お気に入りのイベントはありません</string>
+    <string name="no_favorites_hint">カレンダーや今日のカードからイベントをお気に入りに追加してください</string>
+    <string name="add_favorite">お気に入りに追加</string>
+    <string name="remove_favorite">お気に入りから削除</string>
+    <string name="added_to_favorites">お気に入りに追加しました</string>
+    <string name="removed_from_favorites">お気に入りから削除しました</string>
+    <string name="custom_days">カスタム日</string>
+    <string name="custom_days_desc">あなたが作成または変更した日</string>
+    <string name="categories">カテゴリ</string>
+    <string name="filter_by_category">カテゴリでフィルター</string>
+    <string name="all_categories">すべて</string>
+    <string name="category_health">健康</string>
+    <string name="category_education">教育</string>
+    <string name="category_environment">環境</string>
+    <string name="category_culture">文化</string>
+    <string name="category_science_tech">科学 &amp; 技術</string>
+    <string name="font_size">フォントサイズ</string>
+    <string name="font_small">小</string>
+    <string name="font_medium">標準</string>
+    <string name="font_large">大</string>
+    <string name="font_extra_large">特大</string>
+    <string name="app_icon">アプリのアイコン</string>
+    <string name="app_icon_desc">アイコンは選択された言語に自動的に適応します</string>
+    <string name="current_language_label">現在の言語：%s</string>
+    <string name="current_language">言語：%s</string>
+    <string name="debug">デバッグ</string>
+    <string name="debug_log_level">ログレベル</string>
+    <string name="debug_log_level_desc">logcatに記録される情報量を制御します</string>
+    <string name="debug_log_off">ログなし</string>
+    <string name="debug_log_basic">基本</string>
+    <string name="debug_log_verbose">詳細</string>
+    <string name="debug_hide">デバッグを隠す</string>
+    <string name="debug_hint">もう2回タップしてデバッグモードを有効にしてください</string>
+    <string name="debug_enabled">デバッグモードが有効になりました</string>
+    <string name="debug_disabled">デバッグモードが無効になりました</string>
+
+    <string-array name="month_names">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+</resources>

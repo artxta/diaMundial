@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Dia Mundial</string>
+    <string name="home">Inici</string>
+    <string name="settings">Configuració</string>
+    <string name="today_world_day">Dia Mundial</string>
+    <string name="no_world_day_today">No hi ha cap Dia Mundial registrat avui</string>
+    <string name="country">País</string>
+    <string name="share_whatsapp">Compartir per WhatsApp</string>
+    <string name="notifications">Notificacions</string>
+    <string name="current_time">Hora actual</string>
+    <string name="change_notification_time">Canviar hora de notificació</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="accept">Acceptar</string>
+    <string name="cancel">Cancel·lar</string>
+    <string name="calendar">Calendari</string>
+    <string name="prev_month">Mes anterior</string>
+    <string name="next_month">Mes següent</string>
+    <string name="day_mon">Dl</string>
+    <string name="day_tue">Dt</string>
+    <string name="day_wed">Dc</string>
+    <string name="day_thu">Dj</string>
+    <string name="day_fri">Dv</string>
+    <string name="day_sat">Ds</string>
+    <string name="day_sun">Dg</string>
+    <string name="close">Tancar</string>
+    <string name="language_change_warning">Canviar l\'idioma tancarà l\'aplicació per aplicar els canvis. Voleu continuar?</string>
+    <string name="edit">Editar</string>
+    <string name="share">Compartir</string>
+    <string name="edit_celebration">Editar celebració</string>
+    <string name="name_label">Nom</string>
+    <string name="description_label">Descripció</string>
+    <string name="save">Desar</string>
+    <string name="celebration_saved">Celebració desada</string>
+    <string name="total_days">Dies totals</string>
+    <string name="settings_title">Configuració</string>
+    <string name="appearance">Aparença</string>
+    <string name="app_theme">Tema de l\'aplicació</string>
+    <string name="theme_system">Per defecte del sistema</string>
+    <string name="theme_light">Mode clar</string>
+    <string name="theme_dark">Mode fosc</string>
+    <string name="notifications_mode">Mode de notificació</string>
+    <string name="notifications_mode_desc">Controlar com es reben les notificacions</string>
+    <string name="notif_none">Sense notificació</string>
+    <string name="notif_none_desc">No es mostraran notificacions diàries</string>
+    <string name="notif_silent">Notificació silenciosa</string>
+    <string name="notif_silent_desc">Apareix a la barra sense so ni vibració</string>
+    <string name="notif_sound">Notificació amb so</string>
+    <string name="notif_sound_desc">Notificació estàndard amb so</string>
+    <string name="welcome_title">Benvingut a Dia Mundial</string>
+    <string name="welcome_message_today">Avui és: %s</string>
+    <string name="welcome_message_none">No hi ha cap dia internacional registrat avui</string>
+    <string name="welcome_description">Descobreix què se celebra cada dia a qualsevol part del món.\n\nAmb aquesta aplicació podràs:\n\n✅ Consultar els dies mundials, internacionals i commemoratius de cada data.\n✅ Explorar celebracions de diferents països.\n✅ Crear els teus propis dies especials i efemèrides personalitzades.\n✅ Editar i organitzar les teves celebracions favorites.\n✅ Guardar esdeveniments importants per compartir-los amb amics, familiars o la teva comunitat.\n✅ Descobrir curiositats i informació sobre cada celebració.\n\nCada dia té alguna cosa a celebrar. Descobreix-la o crea la teva pròpia celebració.</string>
+    <string name="welcome_skip">No tornar a mostrar</string>
+    <string name="data">Dades</string>
+    <string name="world_day_file">Fitxer Dia Mundial</string>
+    <string name="import_desc">Importa un fitxer JSON personalitzat.</string>
+    <string name="active_file">Fitxer actiu</string>
+    <string name="change">Canviar</string>
+    <string name="restore">Restaurar</string>
+    <string name="import_json">Importar fitxer JSON</string>
+    <string name="export_desc">Exportar configuració JSON actual</string>
+    <string name="export_json">Exportar fitxer JSON</string>
+    <string name="format_hint">Format: [{\"date\": \"MM-dd\", \"title\": \"...\", \"description\": \"...\", \"country\": \"Espanya\"}]</string>
+    <string name="restore_defaults">Restaurar valors per defecte</string>
+    <string name="restore_confirm">El fitxer importat s\'eliminarà i s\'utilitzaran els dies mundials per defecte.</string>
+    <string name="result">Resultat</string>
+    <string name="import_success">Fitxer importat correctament</string>
+    <string name="import_error">Error: el fitxer no té un format JSON vàlid</string>
+    <string name="export_success">Fitxer exportat correctament</string>
+    <string name="export_error">Error en l\'exportació</string>
+    <string name="language">Idioma</string>
+    <string name="language_title">Idioma de l\'aplicació</string>
+    <string name="lang_system">Per defecte del sistema</string>
+    <string name="lang_english">Anglès</string>
+    <string name="lang_french">Francès</string>
+    <string name="lang_chinese">Xinès</string>
+    <string name="lang_japanese">Japonès</string>
+    <string name="lang_portuguese">Portuguès</string>
+    <string name="lang_catalan">Català</string>
+    <string name="developer_info">Informació del desenvolupador</string>
+    <string name="developer_name">José Alberto Torresano</string>
+    <string name="app_version">Versió 1.0.0-12</string>
+    <string name="github">GitHub</string>
+    <string name="play_store_on">Disponible a Google Play</string>
+
+    <string name="total_days_format">Dies totals: %d</string>
+    <string name="share_with">Compartir amb…</string>
+    <string name="notification_time_format">Hora: %1$02d:%2$02d</string>
+    <string name="notifications_enabled">Notificacions activades</string>
+    <string name="notifications_disabled">Notificacions desactivades</string>
+    <string name="notification_daily_enabled">Rebràs una notificació diària amb l\'esdeveniment del dia.</string>
+    <string name="notification_daily_disabled">No rebràs notificacions diàries.</string>
+    <string name="all_countries">Tots</string>
+    <string name="filter_by_country">Filtrar per país</string>
+    <string name="go_to_today">Anar a Avui</string>
+    <string name="default_country">Espanya</string>
+    <string name="modified">Modificat</string>
+    <string name="celebration_restored">Celebració restaurada</string>
+    <string name="options">Opcions</string>
+    <string name="add_celebration">Afegir celebració</string>
+    <string name="date_format_day">Dia: %1$02d/%2$02d/%3$d</string>
+    <string name="country_label_format">País: %s</string>
+    <string name="celebration_created">Celebració creada</string>
+    <string name="create">Crear</string>
+    <string name="scroll_hint">Llisca per veure més opcions</string>
+    <string name="scroll_hint_desc">Desplaçar cap avall</string>
+    <string name="notification_channel_name">Dies Mundials</string>
+    <string name="notification_channel_description">Notificacions dels dies mundials</string>
+    <string name="lang_spanish">Espanyol</string>
+    <string name="multiple_events_title">%d esdeveniments aquest dia</string>
+    <string name="multiple_events_today">Avui hi ha %d esdeveniments</string>
+    <string name="tap_to_change">Toca per canviar</string>
+    <string name="favorites">Preferits</string>
+    <string name="no_favorites">No hi ha esdeveniments preferits</string>
+    <string name="no_favorites_hint">Marca esdeveniments com a preferits des del calendari o la targeta d\'avui</string>
+    <string name="add_favorite">Afegir a preferits</string>
+    <string name="remove_favorite">Treure de preferits</string>
+    <string name="added_to_favorites">Afegit a preferits</string>
+    <string name="removed_from_favorites">Tret de preferits</string>
+    <string name="custom_days">Dies personalitzats</string>
+    <string name="custom_days_desc">Dies creats o modificats per vostè</string>
+    <string name="categories">Categories</string>
+    <string name="filter_by_category">Filtrar per categoria</string>
+    <string name="all_categories">Totes</string>
+    <string name="category_health">Salut</string>
+    <string name="category_education">Educació</string>
+    <string name="category_environment">Medi ambient</string>
+    <string name="category_culture">Cultura</string>
+    <string name="category_science_tech">Ciència &amp; Tecnologia</string>
+    <string name="font_size">Mida de lletra</string>
+    <string name="font_small">Petita</string>
+    <string name="font_medium">Normal</string>
+    <string name="font_large">Gran</string>
+    <string name="font_extra_large">Extra gran</string>
+    <string name="app_icon">Icona de l\'aplicació</string>
+    <string name="app_icon_desc">La icona s\'adapta automàticament a l\'idioma seleccionat</string>
+    <string name="current_language_label">Idioma actual: %s</string>
+    <string name="current_language">Idioma: %s</string>
+    <string name="debug">Depuració</string>
+    <string name="debug_log_level">Nivell de registre</string>
+    <string name="debug_log_level_desc">Controla la quantitat d\'informació registrada al logcat</string>
+    <string name="debug_log_off">Sense registres</string>
+    <string name="debug_log_basic">Bàsic</string>
+    <string name="debug_log_verbose">Detallat</string>
+    <string name="debug_hide">Amagar depuració</string>
+    <string name="debug_hint">Toca 2 vegades més per activar el mode de depuració</string>
+    <string name="debug_enabled">Mode de depuració activat</string>
+    <string name="debug_disabled">Mode de depuració desactivat</string>
+
+    <string-array name="month_names">
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Setembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+</resources>

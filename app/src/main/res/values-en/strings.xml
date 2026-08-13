@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">World Day</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="today_world_day">World Day</string>
+    <string name="no_world_day_today">No World Day registered today</string>
+    <string name="country">Country</string>
+    <string name="share_whatsapp">Share via WhatsApp</string>
+    <string name="notifications">Notifications</string>
+    <string name="current_time">Current time</string>
+    <string name="change_notification_time">Change notification time</string>
+    <string name="select_time">Select time</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="calendar">Calendar</string>
+    <string name="prev_month">Previous month</string>
+    <string name="next_month">Next month</string>
+    <string name="day_mon">M</string>
+    <string name="day_tue">T</string>
+    <string name="day_wed">W</string>
+    <string name="day_thu">T</string>
+    <string name="day_fri">F</string>
+    <string name="day_sat">S</string>
+    <string name="day_sun">S</string>
+    <string name="close">Close</string>
+    <string name="language_change_warning">Changing the language will close the application to apply the changes. Do you want to continue?</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="edit_celebration">Edit celebration</string>
+    <string name="name_label">Name</string>
+    <string name="description_label">Description</string>
+    <string name="save">Save</string>
+    <string name="celebration_saved">Celebration saved</string>
+    <string name="total_days">Total days</string>
+    <string name="settings_title">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="app_theme">App theme</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light mode</string>
+    <string name="theme_dark">Dark mode</string>
+    <string name="notifications_mode">Notification mode</string>
+    <string name="notifications_mode_desc">Control how notifications are received</string>
+    <string name="notif_none">No notification</string>
+    <string name="notif_none_desc">No daily notifications will be shown</string>
+    <string name="notif_silent">Silent notification</string>
+    <string name="notif_silent_desc">Appears in the bar without sound or vibration</string>
+    <string name="notif_sound">Notification with sound</string>
+    <string name="notif_sound_desc">Standard notification with sound</string>
+    <string name="welcome_title">Welcome to World Day</string>
+    <string name="welcome_message_today">Today is: %s</string>
+    <string name="welcome_message_none">No international day registered today</string>
+    <string name="welcome_description">Discover what is celebrated every day anywhere in the world.\n\nWith this app you can:\n\n✅ Check world, international and commemorative days for each date.\n✅ Explore celebrations from different countries.\n✅ Create your own special days and custom anniversaries.\n✅ Edit and organize your favorite celebrations.\n✅ Save important events to share with friends, family or your community.\n✅ Discover fun facts and information about each celebration.\n\nEvery day has something to celebrate. Discover it or create your own celebration.</string>
+    <string name="welcome_skip">Don\'t show again</string>
+    <string name="data">Data</string>
+    <string name="world_day_file">World Day File</string>
+    <string name="import_desc">Import a custom JSON file.</string>
+    <string name="active_file">Active file</string>
+    <string name="change">Change</string>
+    <string name="restore">Restore</string>
+    <string name="import_json">Import JSON file</string>
+    <string name="export_desc">Export current JSON configuration</string>
+    <string name="export_json">Export JSON file</string>
+    <string name="format_hint">Format: [{\"date\": \"MM-dd\", \"title\": \"...\", \"description\": \"...\", \"country\": \"Spain\"}]</string>
+    <string name="restore_defaults">Restore defaults</string>
+    <string name="restore_confirm">The imported file will be deleted and default world days will be used.</string>
+    <string name="result">Result</string>
+    <string name="import_success">File imported successfully</string>
+    <string name="import_error">Error: the file does not have a valid JSON format</string>
+    <string name="export_success">File exported successfully</string>
+    <string name="export_error">Error exporting</string>
+    <string name="language">Language</string>
+    <string name="language_title">App language</string>
+    <string name="lang_system">System default</string>
+    <string name="lang_english">English</string>
+    <string name="lang_french">French</string>
+    <string name="lang_chinese">Chinese</string>
+    <string name="lang_japanese">Japanese</string>
+    <string name="lang_portuguese">Portuguese</string>
+    <string name="lang_catalan">Catalan</string>
+    <string name="developer_info">Developer information</string>
+    <string name="developer_name">José Alberto Torresano</string>
+    <string name="app_version">Version 1.0.0-12</string>
+    <string name="github">GitHub</string>
+    <string name="play_store_on">Available on Google Play</string>
+
+    <string name="total_days_format">Total days: %d</string>
+    <string name="share_with">Share with…</string>
+    <string name="notification_time_format">Time: %1$02d:%2$02d</string>
+    <string name="notifications_enabled">Notifications enabled</string>
+    <string name="notifications_disabled">Notifications disabled</string>
+    <string name="notification_daily_enabled">You will receive a daily notification with today\'s event.</string>
+    <string name="notification_daily_disabled">You will not receive daily notifications.</string>
+    <string name="all_countries">All</string>
+    <string name="filter_by_country">Filter by country</string>
+    <string name="go_to_today">Go to Today</string>
+    <string name="default_country">Spain</string>
+    <string name="modified">Modified</string>
+    <string name="celebration_restored">Celebration restored</string>
+    <string name="options">Options</string>
+    <string name="add_celebration">Add celebration</string>
+    <string name="date_format_day">Day: %1$02d/%2$02d/%3$d</string>
+    <string name="country_label_format">Country: %s</string>
+    <string name="celebration_created">Celebration created</string>
+    <string name="create">Create</string>
+    <string name="scroll_hint">Swipe to see more options</string>
+    <string name="scroll_hint_desc">Scroll down</string>
+    <string name="notification_channel_name">World Days</string>
+    <string name="notification_channel_description">World day notifications</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="multiple_events_title">%d events this day</string>
+    <string name="multiple_events_today">Today there are %d events</string>
+    <string name="tap_to_change">Tap to change</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites">No favorite events</string>
+    <string name="no_favorites_hint">Mark events as favorites from the calendar or today\'s card</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="custom_days">Custom days</string>
+    <string name="custom_days_desc">Days created or modified by you</string>
+    <string name="categories">Categories</string>
+    <string name="filter_by_category">Filter by category</string>
+    <string name="all_categories">All</string>
+    <string name="category_health">Health</string>
+    <string name="category_education">Education</string>
+    <string name="category_environment">Environment</string>
+    <string name="category_culture">Culture</string>
+    <string name="category_science_tech">Science &amp; Technology</string>
+    <string name="font_size">Font size</string>
+    <string name="font_small">Small</string>
+    <string name="font_medium">Normal</string>
+    <string name="font_large">Large</string>
+    <string name="font_extra_large">Extra large</string>
+    <string name="app_icon">App icon</string>
+    <string name="app_icon_desc">The icon automatically adapts to the selected language</string>
+    <string name="current_language_label">Current language: %s</string>
+    <string name="current_language">Language: %s</string>
+    <string name="debug">Debug</string>
+    <string name="debug_log_level">Log level</string>
+    <string name="debug_log_level_desc">Controls how much information is logged to logcat</string>
+    <string name="debug_log_off">No logs</string>
+    <string name="debug_log_basic">Basic</string>
+    <string name="debug_log_verbose">Verbose</string>
+    <string name="debug_hide">Hide debug</string>
+    <string name="debug_hint">Tap 2 more times to enable debug mode</string>
+    <string name="debug_enabled">Debug mode enabled</string>
+    <string name="debug_disabled">Debug mode disabled</string>
+
+    <string-array name="month_names">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

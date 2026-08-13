@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">世界日</string>
+    <string name="home">首页</string>
+    <string name="settings">设置</string>
+    <string name="today_world_day">世界日</string>
+    <string name="no_world_day_today">今天没有注册的世界日</string>
+    <string name="country">国家</string>
+    <string name="share_whatsapp">通过WhatsApp分享</string>
+    <string name="notifications">通知</string>
+    <string name="current_time">当前时间</string>
+    <string name="change_notification_time">更改通知时间</string>
+    <string name="select_time">选择时间</string>
+    <string name="accept">确定</string>
+    <string name="cancel">取消</string>
+    <string name="calendar">日历</string>
+    <string name="prev_month">上个月</string>
+    <string name="next_month">下个月</string>
+    <string name="day_mon">一</string>
+    <string name="day_tue">二</string>
+    <string name="day_wed">三</string>
+    <string name="day_thu">四</string>
+    <string name="day_fri">五</string>
+    <string name="day_sat">六</string>
+    <string name="day_sun">日</string>
+    <string name="close">关闭</string>
+    <string name="language_change_warning">更改语言将关闭应用程序以应用更改。是否继续？</string>
+    <string name="edit">编辑</string>
+    <string name="share">分享</string>
+    <string name="edit_celebration">编辑庆祝活动</string>
+    <string name="name_label">名称</string>
+    <string name="description_label">描述</string>
+    <string name="save">保存</string>
+    <string name="celebration_saved">庆祝活动已保存</string>
+    <string name="total_days">总天数</string>
+    <string name="settings_title">设置</string>
+    <string name="appearance">外观</string>
+    <string name="app_theme">应用主题</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色模式</string>
+    <string name="theme_dark">深色模式</string>
+    <string name="notifications_mode">通知模式</string>
+    <string name="notifications_mode_desc">控制通知的接收方式</string>
+    <string name="notif_none">无通知</string>
+    <string name="notif_none_desc">不会显示每日通知</string>
+    <string name="notif_silent">静音通知</string>
+    <string name="notif_silent_desc">在栏中显示，无声音和振动</string>
+    <string name="notif_sound">有声音通知</string>
+    <string name="notif_sound_desc">标准通知，有声音</string>
+    <string name="welcome_title">欢迎来到世界日</string>
+    <string name="welcome_message_today">今天是：%s</string>
+    <string name="welcome_message_none">今天没有注册的国际日</string>
+    <string name="welcome_description">发现世界各地每天都在庆祝什么。\n\n使用此应用，您可以：\n\n✅ 查看每个日期的世界日、国际日和纪念日。\n✅ 探索不同国家的庆祝活动。\n✅ 创建您自己的特殊日子和自定义纪念日。\n✅ 编辑和整理您最喜欢的庆祝活动。\n✅ 保存重要事件，与朋友、家人或社区分享。\n✅ 发现每个庆祝活动的趣闻和信息。\n\n每一天都有值得庆祝的事情。发现它或创建您自己的庆祝活动。</string>
+    <string name="welcome_skip">不再显示此屏幕</string>
+    <string name="data">数据</string>
+    <string name="world_day_file">世界日文件</string>
+    <string name="import_desc">导入自定义JSON文件。</string>
+    <string name="active_file">当前文件</string>
+    <string name="change">更换</string>
+    <string name="restore">恢复</string>
+    <string name="import_json">导入JSON文件</string>
+    <string name="export_desc">导出当前JSON配置</string>
+    <string name="export_json">导出JSON文件</string>
+    <string name="format_hint">格式: [{\"date\": \"MM-dd\", \"title\": \"...\", \"description\": \"...\", \"country\": \"西班牙\"}]</string>
+    <string name="restore_defaults">恢复默认设置</string>
+    <string name="restore_confirm">将删除导入的文件并恢复默认的世界日。</string>
+    <string name="result">结果</string>
+    <string name="import_success">文件导入成功</string>
+    <string name="import_error">错误:文件格式不是有效的JSON</string>
+    <string name="export_success">文件导出成功</string>
+    <string name="export_error">导出错误</string>
+    <string name="language">语言</string>
+    <string name="language_title">应用语言</string>
+    <string name="lang_system">跟随系统</string>
+    <string name="lang_english">英语</string>
+    <string name="lang_french">法语</string>
+    <string name="lang_chinese">中文</string>
+    <string name="lang_japanese">日语</string>
+    <string name="lang_portuguese">葡萄牙语</string>
+    <string name="lang_catalan">加泰罗尼亚语</string>
+    <string name="developer_info">开发者信息</string>
+    <string name="developer_name">José Alberto Torresano</string>
+    <string name="app_version">版本 1.0.0-12</string>
+    <string name="github">GitHub</string>
+    <string name="play_store_on">可在 Google Play 上获取</string>
+
+    <string name="total_days_format">总天数: %d</string>
+    <string name="share_with">分享到…</string>
+    <string name="notification_time_format">时间: %1$02d:%2$02d</string>
+    <string name="notifications_enabled">通知已启用</string>
+    <string name="notifications_disabled">通知已禁用</string>
+    <string name="notification_daily_enabled">您将收到每日活动通知。</string>
+    <string name="notification_daily_disabled">您不会收到每日通知。</string>
+    <string name="all_countries">全部</string>
+    <string name="filter_by_country">按国家筛选</string>
+    <string name="go_to_today">回到今天</string>
+    <string name="default_country">西班牙</string>
+    <string name="modified">已修改</string>
+    <string name="celebration_restored">庆祝活动已恢复</string>
+    <string name="options">选项</string>
+    <string name="add_celebration">添加庆祝活动</string>
+    <string name="date_format_day">日期: %1$02d/%2$02d/%3$d</string>
+    <string name="country_label_format">国家: %s</string>
+    <string name="celebration_created">庆祝活动已创建</string>
+    <string name="create">创建</string>
+    <string name="scroll_hint">滑动查看更多选项</string>
+    <string name="scroll_hint_desc">向下滑动</string>
+    <string name="notification_channel_name">世界日</string>
+    <string name="notification_channel_description">世界日通知</string>
+    <string name="lang_spanish">西班牙语</string>
+    <string name="multiple_events_title">此日有%d个活动</string>
+    <string name="multiple_events_today">今天有%d个活动</string>
+    <string name="tap_to_change">点击更改</string>
+    <string name="favorites">收藏</string>
+    <string name="no_favorites">没有收藏的活动</string>
+    <string name="no_favorites_hint">从日历或今日卡片中将活动标记为收藏</string>
+    <string name="add_favorite">添加到收藏</string>
+    <string name="remove_favorite">从收藏中移除</string>
+    <string name="added_to_favorites">已添加到收藏</string>
+    <string name="removed_from_favorites">已从收藏中移除</string>
+    <string name="custom_days">自定义日期</string>
+    <string name="custom_days_desc">您创建或修改的日期</string>
+    <string name="categories">类别</string>
+    <string name="filter_by_category">按类别筛选</string>
+    <string name="all_categories">全部</string>
+    <string name="category_health">健康</string>
+    <string name="category_education">教育</string>
+    <string name="category_environment">环境</string>
+    <string name="category_culture">文化</string>
+    <string name="category_science_tech">科学 &amp; 技术</string>
+    <string name="font_size">字体大小</string>
+    <string name="font_small">小</string>
+    <string name="font_medium">标准</string>
+    <string name="font_large">大</string>
+    <string name="font_extra_large">特大</string>
+    <string name="app_icon">应用图标</string>
+    <string name="app_icon_desc">图标会自动适应所选语言</string>
+    <string name="current_language_label">当前语言：%s</string>
+    <string name="current_language">语言：%s</string>
+    <string name="debug">调试</string>
+    <string name="debug_log_level">日志级别</string>
+    <string name="debug_log_level_desc">控制logcat中记录的信息量</string>
+    <string name="debug_log_off">无日志</string>
+    <string name="debug_log_basic">基本</string>
+    <string name="debug_log_verbose">详细</string>
+    <string name="debug_hide">隐藏调试</string>
+    <string name="debug_hint">再点击2次以启用调试模式</string>
+    <string name="debug_enabled">调试模式已启用</string>
+    <string name="debug_disabled">调试模式已禁用</string>
+
+    <string-array name="month_names">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+</resources>

@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Día Mundial</string>
+    <string name="home">Inicio</string>
+    <string name="settings">Ajustes</string>
+    <string name="today_world_day">Día Mundial</string>
+    <string name="no_world_day_today">Hoy no hay Día Mundial registrado</string>
+    <string name="country">País</string>
+    <string name="share_whatsapp">Compartir por WhatsApp</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="current_time">Hora actual</string>
+    <string name="change_notification_time">Cambiar hora de notificación</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="calendar">Calendario</string>
+    <string name="prev_month">Mes anterior</string>
+    <string name="next_month">Mes siguiente</string>
+    <string name="day_mon">L</string>
+    <string name="day_tue">M</string>
+    <string name="day_wed">X</string>
+    <string name="day_thu">J</string>
+    <string name="day_fri">V</string>
+    <string name="day_sat">S</string>
+    <string name="day_sun">D</string>
+    <string name="close">Cerrar</string>
+    <string name="language_change_warning">Al cambiar el idioma la aplicación se cerrará para aplicar los cambios. ¿Deseas continuar?</string>
+    <string name="edit">Editar</string>
+    <string name="share">Compartir</string>
+    <string name="edit_celebration">Editar celebración</string>
+    <string name="name_label">Nombre</string>
+    <string name="description_label">Descripción</string>
+    <string name="save">Guardar</string>
+    <string name="celebration_saved">Celebración guardada</string>
+    <string name="total_days">Días totales</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="appearance">Apariencia</string>
+    <string name="app_theme">Tema de la aplicación</string>
+    <string name="theme_system">Según el sistema</string>
+    <string name="theme_light">Modo claro</string>
+    <string name="theme_dark">Modo oscuro</string>
+    <string name="notifications_mode">Modo de notificación</string>
+    <string name="notifications_mode_desc">Controla cómo se reciben las notificaciones</string>
+    <string name="notif_none">Sin notificación</string>
+    <string name="notif_none_desc">No se mostrarán notificaciones diarias</string>
+    <string name="notif_silent">Notificación silenciosa</string>
+    <string name="notif_silent_desc">Aparece en la barra sin sonido ni vibración</string>
+    <string name="notif_sound">Notificación con sonido</string>
+    <string name="notif_sound_desc">Notificación estándar con sonido</string>
+    <string name="welcome_title">Bienvenido a Día Mundial</string>
+    <string name="welcome_message_today">Hoy es: %s</string>
+    <string name="welcome_message_none">Hoy no hay ningún día internacional registrado</string>
+    <string name="welcome_description">Descubre qué se celebra cada día en cualquier parte del mundo.\n\nCon esta aplicación podrás:\n\n✅ Consultar los días mundiales, internacionales y conmemorativos de cada fecha.\n✅ Explorar celebraciones de diferentes países.\n✅ Crear tus propios días especiales y efemérides personalizadas.\n✅ Editar y organizar tus celebraciones favoritas.\n✅ Guardar eventos importantes para compartirlos con amigos, familiares o tu comunidad.\n✅ Descubrir curiosidades e información sobre cada celebración.\n\nCada día tiene algo que celebrar. Descúbrelo o crea tu propia celebración.</string>
+    <string name="welcome_skip">No volver a mostrar</string>
+    <string name="data">Datos</string>
+    <string name="world_day_file">Archivo de Días Mundiales</string>
+    <string name="import_desc">Importa un archivo JSON personalizado.</string>
+    <string name="active_file">Archivo activo</string>
+    <string name="change">Cambiar</string>
+    <string name="restore">Restaurar</string>
+    <string name="import_json">Importar archivo JSON</string>
+    <string name="export_desc">Exportar configuración actual JSON</string>
+    <string name="export_json">Exportar archivo JSON</string>
+    <string name="format_hint">Formato: [{\"date\": \"MM-dd\", \"title\": \"...\", \"description\": \"...\", \"country\": \"España\"}]</string>
+    <string name="restore_defaults">Restaurar predeterminados</string>
+    <string name="restore_confirm">Se eliminará el archivo importado y se volverán a usar los días mundiales por defecto.</string>
+    <string name="result">Resultado</string>
+    <string name="import_success">Archivo importado correctamente</string>
+    <string name="import_error">Error: el archivo no tiene un formato JSON válido</string>
+    <string name="export_success">Archivo exportado correctamente</string>
+    <string name="export_error">Error al exportar</string>
+    <string name="language">Idioma</string>
+    <string name="language_title">Idioma de la aplicación</string>
+    <string name="lang_system">Predeterminado del sistema</string>
+    <string name="lang_english">Inglés</string>
+    <string name="lang_french">Francés</string>
+    <string name="lang_chinese">Chino</string>
+    <string name="lang_japanese">Japonés</string>
+    <string name="lang_portuguese">Portugués</string>
+    <string name="lang_catalan">Catalán</string>
+    <string name="developer_info">Información del desarrollador</string>
+    <string name="developer_name">José Alberto Torresano</string>
+    <string name="app_version">Versión 1.0.0-12</string>
+    <string name="github">GitHub</string>
+    <string name="play_store_on">Disponible en Google Play</string>
+
+    <string name="total_days_format">Días totales: %d</string>
+    <string name="share_with">Compartir con…</string>
+    <string name="notification_time_format">Hora: %1$02d:%2$02d</string>
+    <string name="notifications_enabled">Notificaciones activadas</string>
+    <string name="notifications_disabled">Notificaciones desactivadas</string>
+    <string name="notification_daily_enabled">Recibirás una notificación diaria con el evento del día.</string>
+    <string name="notification_daily_disabled">No recibirás notificaciones diarias.</string>
+    <string name="all_countries">Todos</string>
+    <string name="filter_by_country">Filtrar por país</string>
+    <string name="go_to_today">Ir a Hoy</string>
+    <string name="default_country">España</string>
+    <string name="modified">Modificado</string>
+    <string name="celebration_restored">Celebración restaurada</string>
+    <string name="options">Opciones</string>
+    <string name="add_celebration">Añadir celebración</string>
+    <string name="date_format_day">Día: %1$02d/%2$02d/%3$d</string>
+    <string name="country_label_format">País: %s</string>
+    <string name="celebration_created">Celebración creada</string>
+    <string name="create">Crear</string>
+    <string name="scroll_hint">Desliza para ver más opciones</string>
+    <string name="scroll_hint_desc">Deslizar hacia abajo</string>
+    <string name="notification_channel_name">Días Mundiales</string>
+    <string name="notification_channel_description">Notificaciones de los días mundiales</string>
+    <string name="lang_spanish">Español</string>
+    <string name="multiple_events_title">%d eventos este día</string>
+    <string name="multiple_events_today">Hoy hay %d eventos</string>
+    <string name="tap_to_change">Toca para cambiar</string>
+    <string name="favorites">Favoritos</string>
+    <string name="no_favorites">No hay eventos favoritos</string>
+    <string name="no_favorites_hint">Marca eventos como favoritos desde el calendario o la tarjeta de hoy</string>
+    <string name="add_favorite">Añadir a favoritos</string>
+    <string name="remove_favorite">Quitar de favoritos</string>
+    <string name="added_to_favorites">Añadido a favoritos</string>
+    <string name="removed_from_favorites">Eliminado de favoritos</string>
+    <string name="custom_days">Días personalizados</string>
+    <string name="custom_days_desc">Días creados o modificados por ti</string>
+    <string name="categories">Categorías</string>
+    <string name="filter_by_category">Filtrar por categoría</string>
+    <string name="all_categories">Todas</string>
+    <string name="category_health">Salud</string>
+    <string name="category_education">Educación</string>
+    <string name="category_environment">Medio ambiente</string>
+    <string name="category_culture">Cultura</string>
+    <string name="category_science_tech">Ciencia y tecnología</string>
+    <string name="font_size">Tamaño de fuente</string>
+    <string name="font_small">Pequeña</string>
+    <string name="font_medium">Normal</string>
+    <string name="font_large">Grande</string>
+    <string name="font_extra_large">Extra grande</string>
+    <string name="app_icon">Icono de la aplicación</string>
+    <string name="app_icon_desc">El icono se adapta automáticamente al idioma seleccionado</string>
+    <string name="current_language_label">Idioma actual: %s</string>
+    <string name="current_language">Idioma: %s</string>
+    <string name="debug">Depuración</string>
+    <string name="debug_log_level">Nivel de registro</string>
+    <string name="debug_log_level_desc">Controla la cantidad de información que se registra en logcat</string>
+    <string name="debug_log_off">Sin registros</string>
+    <string name="debug_log_basic">Básico</string>
+    <string name="debug_log_verbose">Detallado</string>
+    <string name="debug_hide">Ocultar depuración</string>
+    <string name="debug_hint">Toca 2 veces más para activar el modo depuración</string>
+    <string name="debug_enabled">Modo depuración activado</string>
+    <string name="debug_disabled">Modo depuración desactivado</string>
+
+    <string-array name="month_names">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+</resources>
