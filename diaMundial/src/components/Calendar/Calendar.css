@@ -1,0 +1,13 @@
+.calendar { width: min(100%, 760px); margin-inline: auto; padding: var(--app-space-2) var(--app-space-4) var(--app-space-4); }
+.calendar-heading { display: grid; grid-template-columns: 48px 1fr 48px auto; align-items: center; margin-bottom: var(--app-space-3); text-align: center; }
+.calendar-heading strong { font-size: 1rem; font-weight: 500; text-transform: capitalize; }
+.weekdays, .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); align-items: center; text-align: center; }
+.weekdays { color: var(--app-text-muted); font-size: .75rem; font-weight: 500; }
+.calendar-grid button { position: relative; min-height: 48px; border: 0; border-radius: 50%; background: transparent; color: var(--app-text); font: inherit; cursor: pointer; }
+.calendar-grid button:focus-visible { outline: 3px solid var(--app-primary); outline-offset: 2px; }
+.calendar-grid button:active { background: var(--app-primary-container); }
+.calendar-grid button.selected { background: var(--app-primary); color: #fff; }
+.calendar-grid button.today { outline: 2px solid var(--app-primary); outline-offset: -2px; }
+.calendar-grid button:disabled { visibility: hidden; }
+.dot { position: absolute; bottom: 5px; left: calc(50% - 3px); display: block; width: 6px; height: 6px; border-radius: 50%; background: var(--app-primary); }
+.calendar-grid button.selected .dot { background: #fff; }

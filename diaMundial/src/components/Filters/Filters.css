@@ -1,0 +1,2 @@
+.filters { display: flex; gap: var(--app-space-2); width: min(100%, 760px); margin-inline: auto; padding: 0 var(--app-space-4) var(--app-space-2); }
+.filters ion-select { flex: 1; --background: var(--app-surface-variant); --border-radius: var(--app-radius-sm); padding: 0 var(--app-space-2); }

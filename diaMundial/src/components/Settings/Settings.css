@@ -1,0 +1,7 @@
+.settings { width: min(100%, 760px); margin-inline: auto; padding: 0 var(--app-space-4) var(--app-space-5); }
+.settings-card { margin: var(--app-space-4) 0; overflow: hidden; border: 1px solid var(--settings-card-border); border-radius: var(--app-radius-lg); background: var(--settings-card-background); box-shadow: var(--app-shadow-1); }
+.settings-card h2 { margin: 0; padding: var(--app-space-4) var(--app-space-4) var(--app-space-2); color: var(--settings-card-title); font-size: 1rem; font-weight: 600; letter-spacing: .02em; }
+.settings-card ion-list { margin: 0; padding-bottom: var(--app-space-2); background: transparent; }
+.settings ion-item { --min-height: 56px; --inner-border-color: var(--app-divider); }
+.settings-card ion-item { --background: transparent; }
+.settings-card-appearance, .settings-card-language, .settings-card-notifications, .settings-card-categories, .settings-card-developer { --settings-card-background: var(--app-surface-variant); --settings-card-border: var(--app-divider); --settings-card-title: var(--app-text); }

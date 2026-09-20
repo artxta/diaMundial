@@ -1,0 +1,20 @@
+.notification-modal { --width: min(92vw, 460px); --height: min(86vh, 700px); --border-radius: var(--app-radius-lg); --background: var(--app-surface); }
+.notification-modal ion-content, .clock-modal ion-content { --background: var(--app-surface); }
+.notification-settings { background: transparent; }
+.notification-settings ion-item { --background: var(--app-surface); --color: var(--app-text); }
+.notification-time { min-width: 110px; }
+.clock-modal { --width: min(92vw, 420px); --height: min(78vh, 620px); --border-radius: var(--app-radius-lg); --background: var(--app-surface); }
+.clock-keyboard-fields { display: flex; align-items: center; justify-content: center; gap: 4px; margin: 0 auto var(--app-space-3); }
+.clock-keyboard-input { width: 76px; --padding-start: 8px; --padding-end: 8px; text-align: center; }
+.clock-keyboard-input.active { --border-color: var(--app-primary); --highlight-color-focused: var(--app-primary); }
+.clock-keyboard-input::part(native) { text-align: center; font-size: 1.8rem; font-weight: 600; }
+.clock-keyboard-separator { color: var(--app-text); font-size: 1.8rem; font-weight: 600; }
+.clock-time { display: flex; justify-content: center; align-items: center; gap: 4px; margin: 8px 0 24px; font-size: 2rem; font-weight: 600; }
+.clock-time button { border: 0; border-radius: var(--app-radius-sm); padding: 4px 8px; background: transparent; color: var(--app-text-muted); font: inherit; }
+.clock-time button.active { background: var(--app-primary-container); color: var(--app-primary); }
+.analog-clock { position: relative; width: 100%; max-width: 360px; aspect-ratio: 1; height: auto; margin: 0 auto 28px; border-radius: 50%; background: var(--app-surface-variant); touch-action: none; user-select: none; }
+.analog-clock::before { position: absolute; inset: 50%; width: 10px; height: 10px; border-radius: 50%; background: var(--app-primary); content: ''; transform: translate(-50%, -50%); z-index: 2; }
+.clock-hand { position: absolute; top: calc(50% - 122px); left: 50%; width: 2px; height: 122px; background: var(--app-primary); transform-origin: 50% 100%; z-index: 1; }
+.analog-clock button { position: absolute; top: calc(50% - 20px); left: calc(50% - 20px); width: 40px; height: 40px; border: 0; border-radius: 50%; background: transparent; color: var(--app-text); font: inherit; font-size: .92rem; font-weight: 600; transform-origin: 20px 20px; }
+.analog-clock button.inner-hour { font-size: .82rem; }
+.analog-clock button.selected { background: var(--app-primary); color: var(--app-surface); }

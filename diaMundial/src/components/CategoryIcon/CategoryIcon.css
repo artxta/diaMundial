@@ -1,0 +1,7 @@
+.category-with-icon { display: inline-flex; align-items: center; gap: 4px; }
+.category-icon { font-size: 1.1em; vertical-align: middle; }
+.category-icon-health { color: #d9485f; }
+.category-icon-education { color: #4d79d8; }
+.category-icon-environment { color: #3c9b63; }
+.category-icon-culture { color: #b15cc4; }
+.category-icon-science_tech { color: #d47b2c; }

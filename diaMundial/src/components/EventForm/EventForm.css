@@ -1,0 +1,2 @@
+.form ion-item { --min-height: 64px; --inner-border-color: var(--app-divider); }
+.form-actions { display: flex; justify-content: flex-end; gap: var(--app-space-2); padding: var(--app-space-4); }

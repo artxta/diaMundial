@@ -1,0 +1,9 @@
+.app-tour-modal { --width: min(92vw, 460px); --height: auto; --border-radius: var(--app-radius-lg); --background: var(--app-surface); }
+.app-tour-modal ion-toolbar { --background: var(--app-surface); }
+.app-tour-content { padding: var(--app-space-5); color: var(--app-text); }
+.app-tour-content h2 { margin-top: 0; color: var(--app-text); }
+.app-tour-content p { color: var(--app-text-muted); line-height: 1.5; }
+.app-tour-progress { display: flex; justify-content: center; gap: var(--app-space-2); margin: var(--app-space-5) 0; }
+.app-tour-progress span { width: 8px; height: 8px; border-radius: 50%; background: var(--app-divider); }
+.app-tour-progress span.active { background: var(--app-primary); transform: scale(1.25); }
+.app-tour-actions { display: flex; justify-content: space-between; align-items: center; }

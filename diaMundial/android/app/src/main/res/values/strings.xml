@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Día Mundial</string>
+    <string name="title_activity_main">Día Mundial</string>
+    <string name="package_name">com.jose.diamundial</string>
+    <string name="custom_url_scheme">com.jose.diamundial</string>
+</resources>

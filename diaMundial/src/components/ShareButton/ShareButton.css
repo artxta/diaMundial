@@ -1,0 +1,39 @@
+.share-button { display: inline-flex; }
+.share-modal {
+  --width: min(92vw, 440px);
+  --height: min(360px, 70vh);
+  --min-height: 260px;
+  --max-height: 70vh;
+  --border-radius: var(--app-radius-lg);
+  --background: var(--app-surface);
+  --z-index: 10001;
+  z-index: 10001;
+}
+.share-modal ion-toolbar,
+.share-modal ion-content {
+  --background: var(--app-surface);
+  --color: var(--app-text);
+}
+.share-modal ion-title,
+.share-modal ion-label,
+.share-modal ion-icon {
+  color: var(--app-text);
+}
+.share-options {
+  margin: 0;
+  padding: var(--app-space-2) 0 var(--app-space-3);
+  background: var(--app-surface);
+}
+.share-options ion-item {
+  --background: var(--app-surface);
+  --color: var(--app-text);
+  --inner-border-color: var(--app-divider);
+  --min-height: 58px;
+}
+.share-options ion-item:active {
+  --background: var(--app-surface-variant);
+}
+.share-options ion-item ion-icon {
+  color: var(--app-primary);
+  font-size: 1.35rem;
+}

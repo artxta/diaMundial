@@ -1,0 +1,4 @@
+allowBuilds:
+  esbuild: set this to true or false
+patchedDependencies:
+  '@capacitor-community/sqlite@7.0.3': patches/@capacitor-community__sqlite@7.0.3.patch

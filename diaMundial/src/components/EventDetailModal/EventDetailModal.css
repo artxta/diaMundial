@@ -1,0 +1,3 @@
+.event-detail-modal { --background: var(--app-surface); }
+.event-detail-modal article h2,
+.event-detail-modal article p { padding-inline: var(--app-space-2); }

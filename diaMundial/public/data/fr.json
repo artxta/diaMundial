@@ -1,0 +1,1948 @@
+[
+  {
+    "date": "01-04",
+    "title": "Journée mondiale du braille",
+    "description": "A/RES/73/161",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "01-24",
+    "title": "Journée internationale de l'éducation",
+    "description": "A/RES/73/25",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "01-24",
+    "title": "Journée mondiale de la culture africaine et des personnes d'ascendance africaine",
+    "description": "UNESCO",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "01-26",
+    "title": "Journée internationale de l'énergie propre",
+    "description": "A/RES/77/327",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "01-27",
+    "title": "Journée internationale de commémoration annuelle en mémoire des victimes de l'Holocauste",
+    "description": "A/RES/60/7",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "01-28",
+    "title": "Journée internationale de la coexistence pacifique",
+    "description": "A/RES/79/269",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-01",
+    "title": "Semaine mondiale de l'harmonie interconfessionnelle",
+    "description": "A/RES/65/5",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-02",
+    "title": "Journée mondiale des zones humides",
+    "description": "A/RES/75/317",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-04",
+    "title": "Journée internationale de la fraternité humaine",
+    "description": "A/RES/75/200",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-06",
+    "title": "Journée internationale de tolérance zéro envers les mutilations sexuelles féminines",
+    "description": "A/RES/67/146",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-10",
+    "title": "Journée internationale du léopard d'Arabie",
+    "description": "A/RES/77/295",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-10",
+    "title": "Journée mondiale des légumineuses",
+    "description": "FAO - A/RES/73/251",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-11",
+    "title": "Journée internationale des femmes et des jeunes filles de la science",
+    "description": "A/RES/70/212",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-12",
+    "title": "Journée internationale pour la prévention du violent extrémisme lorsqu'il mène au terrorisme",
+    "description": "A/RES/77/243",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-13",
+    "title": "Journée mondiale de la radio",
+    "description": "A/RES/67/124",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-17",
+    "title": "Journée mondiale de la résilience du tourisme",
+    "description": "A/RES/77/269",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-20",
+    "title": "Journée mondiale de la justice sociale",
+    "description": "A/RES/62/10",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "02-21",
+    "title": "Journée internationale de la langue maternelle",
+    "description": "A/RES/56/262",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-01",
+    "title": "Journée mondiale des herbiers marins",
+    "description": "A/RES/76/265",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-01",
+    "title": "Journée de la tolérance zéro",
+    "description": "ONUSIDA",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-03",
+    "title": "Journée mondiale de la vie sauvage",
+    "description": "A/RES/68/205",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-05",
+    "title": "Journée internationale pour la sensibilisation au désarmement et à la non-prolifération",
+    "description": "A/RES/77/51",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-08",
+    "title": "Journée internationale des droits des femmes",
+    "description": "Célébration des droits des femmes",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-10",
+    "title": "Journée internationale des femmes juges",
+    "description": "A/RES/75/274",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-15",
+    "title": "Journée internationale de lutte contre l'islamophobie",
+    "description": "A/RES/76/254",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-20",
+    "title": "Journée internationale du bonheur",
+    "description": "A/RES/66/281",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-20",
+    "title": "Journée de la langue française",
+    "description": "Célébration de la langue française",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-21",
+    "title": "Journée internationale des forêts",
+    "description": "FAO - A/RES/67/200",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-21",
+    "title": "Journée mondiale des glaciers",
+    "description": "A/RES/77/158",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-21",
+    "title": "Journée internationale pour l'élimination de la discrimination raciale",
+    "description": "A/RES/2142 (XXI)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-21",
+    "title": "Journée mondiale de la poésie",
+    "description": "UNESCO 30 C/Resolution 29",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-21",
+    "title": "Journée internationale du Nowruz",
+    "description": "A/RES/64/253",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-21",
+    "title": "Journée mondiale de la trisomie 21",
+    "description": "A/RES/66/149",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-22",
+    "title": "Journée mondiale de l'eau",
+    "description": "A/RES/47/193",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-23",
+    "title": "Journée météorologique mondiale",
+    "description": "OMM - WMO/EC-XII/Res.6",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-24",
+    "title": "Journée internationale du droit à la vérité concernant les violations graves des droits de l'homme et de la dignité des victimes",
+    "description": "A/RES/65/196",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-24",
+    "title": "Journée mondiale de la tuberculose",
+    "description": "OMS",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-25",
+    "title": "Journée internationale de solidarité avec le personnel détenu ou disparu",
+    "description": "A/RES/49/59",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-25",
+    "title": "Journée internationale de commémoration des victimes de l'esclavage et de la traite transatlantique des esclaves",
+    "description": "A/RES/62/122",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "03-30",
+    "title": "Journée internationale des zéro déchet",
+    "description": "A/RES/77/161",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-02",
+    "title": "Journée mondiale de sensibilisation à l'autisme",
+    "description": "A/RES/62/139",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-04",
+    "title": "Journée internationale d'information sur le danger des mines et d'assistance aux activités liées aux mines",
+    "description": "A/RES/60/97",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-05",
+    "title": "Journée internationale de la conscience",
+    "description": "A/RES/73/329",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-06",
+    "title": "Journée internationale du sport pour le développement et la paix",
+    "description": "A/RES/67/296",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-07",
+    "title": "Journée mondiale de la santé",
+    "description": "OMS - A/RES/58/234",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-07",
+    "title": "Journée internationale de réflexion sur le génocide de 1994 contre les Tutsis au Rwanda",
+    "description": "WHA/A.2/Res.35",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-12",
+    "title": "Journée internationale des vols spatiaux habités",
+    "description": "A/RES/65/271",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-14",
+    "title": "Journée mondiale de la maladie de Chagas",
+    "description": "Sensibilisation à la maladie de Chagas",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-15",
+    "title": "Journée internationale du bien-être",
+    "description": "A/RES/80/249",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-19",
+    "title": "Journée de la langue chinoise",
+    "description": "Célébration de la langue chinoise",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-21",
+    "title": "Journée mondiale de la créativité et de l'innovation",
+    "description": "A/RES/71/284",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-22",
+    "title": "Journée internationale de la Terre mère",
+    "description": "A/RES/63/278",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-23",
+    "title": "Journée de la langue espagnole aux Nations Unies",
+    "description": "Célébration de la langue espagnole",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-23",
+    "title": "Journée mondiale du livre et des droits d'auteur",
+    "description": "UNESCO 28 C/Resolution 3.18",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-23",
+    "title": "Journée de la langue anglaise",
+    "description": "Célébration de la langue anglaise",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-24",
+    "title": "Semaine mondiale de la vaccination",
+    "description": "Promotion de la vaccination",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-24",
+    "title": "Journée internationale du multilatéralisme et de la diplomatie pour la paix",
+    "description": "A/RES/73/127",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-25",
+    "title": "Journée des filles dans les TIC",
+    "description": "UIT - sera célébrée le 24 avril en 2025",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-25",
+    "title": "Journée mondiale du paludisme",
+    "description": "OMS",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-25",
+    "title": "Journée internationale du délégué",
+    "description": "A/RES/73/286",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-26",
+    "title": "Journée mondiale de la propriété intellectuelle",
+    "description": "OMPI",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-26",
+    "title": "Journée internationale de commémoration de la catastrophe de Tchernobyl",
+    "description": "A/RES/71/125",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-28",
+    "title": "Journée mondiale de la sécurité et de la santé au travail",
+    "description": "Promotion de la sécurité au travail",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-29",
+    "title": "Journée internationale en mémoire des victimes de tremblements de terre",
+    "description": "A/RES/79/285",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "04-30",
+    "title": "Journée internationale du jazz",
+    "description": "UNESCO 36 C/Resolution 39",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-01",
+    "title": "Journée de Vesak",
+    "description": "A/RES/54/115",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-02",
+    "title": "Journée mondiale du thon",
+    "description": "A/RES/71/124",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-03",
+    "title": "Journée mondiale de la liberté de la presse",
+    "description": "UNESCO 26 C/Resolution 4.3",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-05",
+    "title": "Journée mondiale de la langue portugaise",
+    "description": "Célébration de la langue portugaise",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-10",
+    "title": "Journée internationale de l'argan",
+    "description": "Célébration de l'argan",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-11",
+    "title": "Journée mondiale des oiseaux migrateurs",
+    "description": "PNUE",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-12",
+    "title": "Journée internationale de la santé des végétaux",
+    "description": "A/RES/76/256",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-15",
+    "title": "Journée internationale des familles",
+    "description": "A/RES/47/237",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-16",
+    "title": "Journée internationale de la lumière",
+    "description": "UNESCO 39 C/Resolution 16",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-16",
+    "title": "Journée internationale de la coexistence pacifique",
+    "description": "A/RES/72/130",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-17",
+    "title": "Journée mondiale des télécommunications et de la société de l'information",
+    "description": "A/RES/60/252",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-19",
+    "title": "Journée mondiale du fair-play",
+    "description": "A/RES/78/310",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-20",
+    "title": "Journée mondiale des abeilles",
+    "description": "A/RES/72/211",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-21",
+    "title": "Journée internationale du thé",
+    "description": "A/RES/74/241",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-21",
+    "title": "Journée mondiale de la diversité culturelle pour le dialogue et le développement",
+    "description": "A/RES/57/249",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-22",
+    "title": "Journée internationale de la diversité biologique",
+    "description": "A/RES/55/201",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-23",
+    "title": "Journée internationale pour l'éradication de la fistule obstétricale",
+    "description": "A/RES/67/147",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-25",
+    "title": "Semaine de solidarité avec les peuples des territoires non autonomes",
+    "description": "A/RES/54/91",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-29",
+    "title": "Journée internationale du personnel de la paix des Nations Unies",
+    "description": "A/RES/57/129",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-30",
+    "title": "Journée internationale de la pomme de terre",
+    "description": "FAO - A/RES/78/123",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "05-31",
+    "title": "Journée mondiale sans tabac",
+    "description": "OMS - WHA Resolution 42.19",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-01",
+    "title": "Journée mondiale des mères et des pères",
+    "description": "A/RES/66/292",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-03",
+    "title": "Journée mondiale du vélo",
+    "description": "A/RES/72/272",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-04",
+    "title": "Journée internationale des enfants victimes innocentes d'agression",
+    "description": "A/RES/ES-7/8",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-05",
+    "title": "Journée mondiale de l'environnement",
+    "description": "A/RES/2994 (XXVII)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-05",
+    "title": "Journée internationale de lutte contre la pêche illicite, non déclarée et non réglementée",
+    "description": "A/RES/72/72",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-06",
+    "title": "Journée de la langue russe",
+    "description": "Célébration de la langue russe",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-07",
+    "title": "Journée mondiale de l'innocuité des aliments",
+    "description": "A/RES/73/250",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-08",
+    "title": "Journée mondiale des océans",
+    "description": "A/RES/63/111",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-10",
+    "title": "Journée internationale du dialogue entre les civilisations",
+    "description": "A/RES/78/286",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-11",
+    "title": "Journée internationale du jeu",
+    "description": "A/78/L.53",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-12",
+    "title": "Journée mondiale contre le travail des enfants",
+    "description": "Lutte contre le travail des enfants",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-13",
+    "title": "Journée internationale de sensibilisation à l'albinisme",
+    "description": "A/RES/69/170",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-14",
+    "title": "Journée mondiale du donneur de sang",
+    "description": "OMS - WHA Resolution 58.13",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-15",
+    "title": "Journée mondiale de sensibilisation aux abus et à la maltraitance des personnes âgées",
+    "description": "A/RES/66/127",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-16",
+    "title": "Journée internationale des envois de fonds familiaux",
+    "description": "A/RES/72/281",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-17",
+    "title": "Journée mondiale de lutte contre la désertification",
+    "description": "A/RES/49/115",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-18",
+    "title": "Journée internationale pour contrer le discours de haine",
+    "description": "A/RES/75/309",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-18",
+    "title": "Journée de la gastronomie durable",
+    "description": "A/RES/71/246",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-19",
+    "title": "Journée internationale pour l'élimination de la violence sexuelle dans les conflits",
+    "description": "A/RES/69/293",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-20",
+    "title": "Journée mondiale des réfugiés",
+    "description": "A/RES/55/76",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-21",
+    "title": "Journée internationale de la célébration du solstice",
+    "description": "A/RES/73/300",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-21",
+    "title": "Journée internationale du yoga",
+    "description": "A/RES/69/131",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-23",
+    "title": "Journée des Nations Unies pour l'administration publique",
+    "description": "A/RES/57/277",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-23",
+    "title": "Journée internationale des veuves",
+    "description": "A/RES/65/189",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-24",
+    "title": "Journée internationale des femmes dans la diplomatie",
+    "description": "A/RES/76/269",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-25",
+    "title": "Journée des gens de mer",
+    "description": "OIM - STCW/CONF.2/DC/4",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-26",
+    "title": "Journée internationale de soutien aux victimes de la torture",
+    "description": "A/RES/52/149",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-26",
+    "title": "Journée internationale de lutte contre l'usage abusif et le trafic illicite de drogues",
+    "description": "A/RES/42/112",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-27",
+    "title": "Journée internationale de la surdicécité",
+    "description": "A/79/L.92",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-27",
+    "title": "Journée des microentreprises et des petites et moyennes entreprises",
+    "description": "A/RES/71/279",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-29",
+    "title": "Journée internationale des tropiques",
+    "description": "A/RES/71/279",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-30",
+    "title": "Journée internationale des astéroïdes",
+    "description": "A/RES/71/90",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "06-30",
+    "title": "Journée internationale du parlementarisme",
+    "description": "A/RES/72/278",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-06",
+    "title": "Journée internationale des coopératives",
+    "description": "A/RES/47/90",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-06",
+    "title": "Journée mondiale du développement rural",
+    "description": "A/RES/78/326",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-07",
+    "title": "Journée mondiale de la langue kiswahili",
+    "description": "A/RES/78/312",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-11",
+    "title": "Journée internationale de réflexion et de commémoration du génocide de Srebrenica de 1995",
+    "description": "A/RES/78/282",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-11",
+    "title": "Journée mondiale du cheval",
+    "description": "A/RES/79/291",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-11",
+    "title": "Journée mondiale de la population",
+    "description": "A/RES/45/216",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-12",
+    "title": "Journée internationale de lutte contre les tempêtes de sable et de poussière",
+    "description": "A/RES/77/294",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-12",
+    "title": "Journée internationale de l'espérance",
+    "description": "A/RES/79/270",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-15",
+    "title": "Journée mondiale des compétences de la jeunesse",
+    "description": "A/RES/69/145",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-18",
+    "title": "Journée internationale Nelson Mandela",
+    "description": "A/RES/64/13",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-20",
+    "title": "Journée internationale de la Lune",
+    "description": "Projet A/RES/76/415",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-20",
+    "title": "Journée mondiale des échecs",
+    "description": "A/RES/74/22",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-25",
+    "title": "Journée internationale du bien-être judiciaire",
+    "description": "A/RES/79/266",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-25",
+    "title": "Journée internationale des femmes et des filles d'ascendance africaine",
+    "description": "A/RES/78/323",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-25",
+    "title": "Journée mondiale de prévention des noyades",
+    "description": "A/RES/75/273",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-28",
+    "title": "Journée mondiale contre l'hépatite",
+    "description": "OMS",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-30",
+    "title": "Journée internationale de l'amitié",
+    "description": "A/RES/65/275",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "07-30",
+    "title": "Journée mondiale contre la traite",
+    "description": "A/RES/68/192",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-01",
+    "title": "Semaine mondiale de l'allaitement maternel",
+    "description": "Promotion de l'allaitement maternel",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-06",
+    "title": "Journée internationale de sensibilisation aux besoins et défis spéciaux de développement des pays en développement sans littoral",
+    "description": "A/79/L.108",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-09",
+    "title": "Journée internationale des peuples autochtones",
+    "description": "A/RES/49/214",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-11",
+    "title": "Journée mondiale des tambours métalliques",
+    "description": "A/RES/77/316",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-12",
+    "title": "Journée internationale de la jeunesse",
+    "description": "A/RES/54/120",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-19",
+    "title": "Journée mondiale de l'assistance humanitaire",
+    "description": "A/RES/63/139",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-21",
+    "title": "Journée internationale de commémoration et d'hommage aux victimes du terrorisme",
+    "description": "A/RES/72/165",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-22",
+    "title": "Journée de commémoration des victimes d'actes de violence fondés sur la religion ou les convictions",
+    "description": "A/RES/73/296",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-23",
+    "title": "Journée internationale du souvenir de la traite des esclaves et de leur abolition",
+    "description": "UNESCO 29 C/Resolution 40",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-27",
+    "title": "Journée mondiale des lacs",
+    "description": "A/RES/79/142",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-29",
+    "title": "Journée internationale contre les essais nucléaires",
+    "description": "A/RES/64/35",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-30",
+    "title": "Journée internationale des victimes de disparitions forcées",
+    "description": "A/RES/65/209",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "08-31",
+    "title": "Journée internationale des personnes d'ascendance africaine",
+    "description": "A/RES/75/170",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-05",
+    "title": "Journée internationale des femmes et des filles autochtones du monde",
+    "description": "A/RES/80/10",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-05",
+    "title": "Journée internationale de la bienfaisance",
+    "description": "A/RES/67/105",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-07",
+    "title": "Journée mondiale de sensibilisation à la dystrophie musculaire de Duchenne",
+    "description": "A/RES/78/12",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-07",
+    "title": "Journée internationale de la coopération policière",
+    "description": "A/RES/77/241",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-07",
+    "title": "Journée internationale de l'air pur pour un ciel bleu",
+    "description": "A/RES/74/212",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-08",
+    "title": "Journée internationale de l'alphabétisation",
+    "description": "UNESCO 14 C/Resolution 1.441",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-09",
+    "title": "Journée internationale pour protéger l'éducation contre les attaques",
+    "description": "A/RES/74/275",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-12",
+    "title": "Journée des Nations Unies pour la coopération Sud-Sud",
+    "description": "A/RES/58/220",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-15",
+    "title": "Journée internationale de la démocratie",
+    "description": "A/RES/62/7",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-16",
+    "title": "Journée internationale de la science, de la technologie et de l'innovation pour le Sud",
+    "description": "A/RES/78/259",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-16",
+    "title": "Journée internationale de la cardiologie interventionnelle",
+    "description": "A/76/L.77",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-16",
+    "title": "Journée internationale de la préservation de la couche d'ozone",
+    "description": "A/RES/49/114",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-17",
+    "title": "Journée mondiale de la sécurité des patients",
+    "description": "Promotion de la sécurité des patients",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-18",
+    "title": "Journée internationale de l'égalité salariale",
+    "description": "A/RES/74/142",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-20",
+    "title": "Journée mondiale du nettoyage",
+    "description": "A/RES/78/122",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-21",
+    "title": "Journée internationale de la paix",
+    "description": "A/RES/36/67",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-23",
+    "title": "Journée internationale des langues des signes",
+    "description": "A/RES/72/161",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-26",
+    "title": "Journée maritime mondiale",
+    "description": "Célébration maritime mondiale",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-26",
+    "title": "Journée internationale pour l'élimination totale des armes nucléaires",
+    "description": "A/RES/68/32",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-27",
+    "title": "Journée mondiale du tourisme",
+    "description": "Promotion du tourisme",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-28",
+    "title": "Journée internationale du droit d'accès universel à l'information",
+    "description": "A/RES/74/5",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-28",
+    "title": "Journée mondiale contre la rage",
+    "description": "Sensibilisation à la rage",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-29",
+    "title": "Journée internationale de sensibilisation aux pertes et au gaspillage alimentaires",
+    "description": "A/RES/74/209",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "09-30",
+    "title": "Journée internationale de la traduction",
+    "description": "A/RES/71/288",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-01",
+    "title": "Journée internationale du café",
+    "description": "A/80/L.44",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-01",
+    "title": "Journée internationale des personnes âgées",
+    "description": "A/RES/45/106",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-02",
+    "title": "Journée internationale de la non-violence",
+    "description": "A/RES/61/271",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-04",
+    "title": "Semaine mondiale de l'espace",
+    "description": "A/RES/54/68",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-05",
+    "title": "Journée mondiale de l'habitat",
+    "description": "A/RES/40/202 A",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-05",
+    "title": "Journée mondiale des enseignants",
+    "description": "UNESCO - UNESCO 27 C/INF.7",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-07",
+    "title": "Journée mondiale du coton",
+    "description": "FAO - A/RES/75/318",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-09",
+    "title": "Journée mondiale de la poste",
+    "description": "UPU/1969/Res.C.11",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-10",
+    "title": "Journée mondiale des oiseaux migrateurs",
+    "description": "PNUE",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-10",
+    "title": "Journée mondiale de la santé mentale",
+    "description": "OMS",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-11",
+    "title": "Journée internationale de la fille",
+    "description": "A/RES/66/170",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-13",
+    "title": "Journée internationale pour la réduction des catastrophes",
+    "description": "A/RES/64/200",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-15",
+    "title": "Journée internationale des femmes rurales",
+    "description": "A/RES/62/136",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-16",
+    "title": "Journée mondiale de l'alimentation",
+    "description": "A/RES/35/70",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-17",
+    "title": "Journée internationale pour l'éradication de la pauvreté",
+    "description": "A/RES/47/196",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-20",
+    "title": "Journée mondiale de la statistique",
+    "description": "Promotion de la statistique",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-23",
+    "title": "Journée internationale du léopard des neiges",
+    "description": "A/RES/79/143",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-24",
+    "title": "Semaine mondiale de l'alphabétisation médiatique et informationnelle",
+    "description": "A/RES/75/267",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-24",
+    "title": "Journée des Nations Unies",
+    "description": "A/RES/168 (II)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-24",
+    "title": "Journée mondiale de l'information sur le développement",
+    "description": "A/RES/3038 (XXVII)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-24",
+    "title": "Semaine du désarmement",
+    "description": "A/RES/S-10/2 (p. 102)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-27",
+    "title": "Journée mondiale du patrimoine audiovisuel",
+    "description": "UNESCO 33/C/Resolution 5",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "10-31",
+    "title": "Journée mondiale des villes",
+    "description": "A/RES/68/239",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-02",
+    "title": "Journée internationale pour mettre fin à l'impunité des crimes contre les journalistes",
+    "description": "A/RES/68/163",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-05",
+    "title": "Journée mondiale de sensibilisation aux tsunamis",
+    "description": "A/RES/70/203",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-06",
+    "title": "Journée internationale pour la prévention de l'exploitation de l'environnement en temps de guerre et de conflits armés",
+    "description": "A/RES/56/4",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-09",
+    "title": "Semaine internationale de la science et de la paix",
+    "description": "A/RES/43/61",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-10",
+    "title": "Journée mondiale de la science pour la paix et le développement",
+    "description": "UNESCO 31 C/Resolution 20",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-14",
+    "title": "Journée mondiale du diabète",
+    "description": "A/RES/61/225",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-16",
+    "title": "Journée internationale du régime méditerranéen",
+    "description": "A/RES/80/174",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-16",
+    "title": "Journée mondiale en mémoire des victimes d'accidents de la route",
+    "description": "A/RES/60/5",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-16",
+    "title": "Journée internationale de la tolérance",
+    "description": "UNESCO 28 C/Resolution 5.61",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-18",
+    "title": "Journée mondiale pour prévenir l'exploitation, les abus et la violence sexuelles contre les enfants et promouvoir la guérison",
+    "description": "A/RES/77/8",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-18",
+    "title": "Semaine mondiale de sensibilisation à l'utilisation des antimicrobiens",
+    "description": "OMS - 13-19 novembre",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-19",
+    "title": "Journée mondiale des toilettes",
+    "description": "A/RES/67/291",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-20",
+    "title": "Journée de l'industrialisation de l'Afrique",
+    "description": "A/RES/44/237",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-20",
+    "title": "Journée mondiale de l'enfance",
+    "description": "A/RES/836(IX)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-21",
+    "title": "Journée mondiale de la télévision",
+    "description": "A/RES/51/205",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-21",
+    "title": "Journée mondiale de la philosophie",
+    "description": "UNESCO 33 C/Resolution 37",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-24",
+    "title": "Journée mondiale des jumeaux siamois",
+    "description": "A/RES/78/313",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-25",
+    "title": "Journée internationale pour l'élimination de la violence à l'égard des femmes",
+    "description": "A/RES/54/134",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-26",
+    "title": "Journée mondiale du transport durable",
+    "description": "A/RES/77/286",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-29",
+    "title": "Journée internationale de solidarité avec le peuple palestinien",
+    "description": "A/RES/32/40B",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "11-30",
+    "title": "Journée de commémoration de toutes les victimes de la guerre chimique",
+    "description": "OPCW C-20/DEC.10",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-01",
+    "title": "Journée mondiale du SIDA",
+    "description": "Sensibilisation au SIDA",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-02",
+    "title": "Journée internationale pour l'abolition de l'esclavage",
+    "description": "A/RES/317(IV)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-03",
+    "title": "Journée internationale des personnes en situation de handicap",
+    "description": "A/RES/47/3",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-04",
+    "title": "Journée internationale contre les mesures coercitives unilatérales",
+    "description": "A/79/L.93",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-04",
+    "title": "Journée internationale des banques",
+    "description": "A/RES/74/245",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-05",
+    "title": "Journée mondiale des sols",
+    "description": "A/RES/68/232",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-05",
+    "title": "Journée internationale des volontaires",
+    "description": "A/RES/40/212",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-07",
+    "title": "Journée de l'aviation civile internationale",
+    "description": "A/RES/51/33",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-09",
+    "title": "Journée internationale de commémoration et de dignification des victimes du crime de génocide et de prévention de ce crime",
+    "description": "A/RES/69/323",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-09",
+    "title": "Journée internationale contre la corruption",
+    "description": "A/RES/58/4",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-10",
+    "title": "Journée des droits de l'homme",
+    "description": "A/RES/423 (V)",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-11",
+    "title": "Journée internationale des montagnes",
+    "description": "A/RES/57/245",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-12",
+    "title": "Journée internationale de la neutralité",
+    "description": "A/RES/71/275",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-12",
+    "title": "Journée internationale de la couverture sanitaire universelle",
+    "description": "A/RES/72/138",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-14",
+    "title": "Journée internationale contre le colonialisme sous toutes ses formes et manifestations",
+    "description": "A/C.4/80/L.5",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-15",
+    "title": "Journée mondiale de la famille des langues turques",
+    "description": "UNESCO 43 C/57",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-18",
+    "title": "Journée de la langue arabe",
+    "description": "Célébration de la langue arabe",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-18",
+    "title": "Journée internationale du migrant",
+    "description": "A/RES/55/93",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-20",
+    "title": "Journée internationale de la solidarité humaine",
+    "description": "A/RES/60/209",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-21",
+    "title": "Journée mondiale du basket-ball",
+    "description": "A/RES/77/324",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-21",
+    "title": "Journée mondiale de la méditation",
+    "description": "A/RES/79/137",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "12-27",
+    "title": "Journée internationale de préparation aux épidémies",
+    "description": "A/RES/75/27",
+    "country": "Global",
+    "image": null
+  },
+  {
+    "date": "01-01",
+    "title": "Nouvel An",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "01-06",
+    "title": "Jour des Rois",
+    "description": "Jour férié en Espagne. Épiphanie du Seigneur.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "02-04",
+    "title": "Journée mondiale contre le cancer",
+    "description": "Sensibilisation à la lutte contre le cancer.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "02-14",
+    "title": "Jour de la Saint-Valentin",
+    "description": "Jour des amoureux.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "02-28",
+    "title": "Jour de l'Andalousie",
+    "description": "Fête de la communauté autonome d'Andalousie.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "03-01",
+    "title": "Jour des Îles Baléares",
+    "description": "Fête de la communauté autonome des Îles Baléares.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "03-19",
+    "title": "Jour du Père",
+    "description": "Célébration du Jour du Père en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "03-27",
+    "title": "Journée mondiale du théâtre",
+    "description": "Célébration de l'art théâtral au niveau mondial.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "04-02",
+    "title": "Jeudi saint",
+    "description": "Jour férié dans la plupart des communautés autonomes d'Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "04-03",
+    "title": "Vendredi saint",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "04-05",
+    "title": "Dimanche de Pâques",
+    "description": "Célébration de Pâques.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "04-23",
+    "title": "Jour de Castille-et-León",
+    "description": "Fête de la communauté autonome de Castille-et-León.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "04-23",
+    "title": "Jour de l'Aragon",
+    "description": "Fête de la communauté autonome d'Aragon.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "04-23",
+    "title": "Jour de Saint-Georges",
+    "description": "Patron de l'Aragon et célébration de la lecture.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "05-01",
+    "title": "Jour du Travail",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "05-02",
+    "title": "Jour de la Communauté de Madrid",
+    "description": "Fête de la communauté autonome de Madrid.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "05-02",
+    "title": "Journée internationale contre le harcèlement scolaire",
+    "description": "Sensibilisation contre le harcèlement scolaire.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "05-03",
+    "title": "Jour de la Mère en Espagne",
+    "description": "Célébration du Jour de la Mère.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "05-30",
+    "title": "Jour des Canaries",
+    "description": "Fête de la communauté autonome des Canaries.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "05-31",
+    "title": "Jour de Castille-La Mancha",
+    "description": "Fête de la communauté autonome de Castille-La Mancha.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "06-04",
+    "title": "Fête-Dieu",
+    "description": "Célébration religieuse du Corps du Christ.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "06-28",
+    "title": "Jour de la Fierté LGBTIQ+",
+    "description": "Jour de la diversité sexuelle et de genre.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "07-25",
+    "title": "Jour de la Galice",
+    "description": "Fête de la communauté autonome de Galice.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "07-25",
+    "title": "Jour de Saint Jacques Apôtre",
+    "description": "Patron de la Galice et fête nationale.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "08-15",
+    "title": "Jour de l'Assomption de la Vierge Marie",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "09-02",
+    "title": "Jour de Ceuta",
+    "description": "Fête de la ville autonome de Ceuta.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "09-08",
+    "title": "Jour des Asturies",
+    "description": "Fête de la communauté autonome des Asturies.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "09-08",
+    "title": "Jour de l'Estrémadure",
+    "description": "Fête de la communauté autonome d'Estrémadure.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "09-11",
+    "title": "Jour de la Catalogne",
+    "description": "Fête de la communauté autonome de Catalogne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "09-17",
+    "title": "Jour de Melilla",
+    "description": "Fête de la ville autonome de Melilla.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "10-09",
+    "title": "Jour de la Communauté valencienne",
+    "description": "Fête de la communauté autonome valencienne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "10-12",
+    "title": "Jour de la fête nationale d'Espagne (Hispanidad)",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "11-01",
+    "title": "Jour de la Toussaint",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "12-03",
+    "title": "Jour de la Navarre",
+    "description": "Fête de la communauté forale de Navarre.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "12-03",
+    "title": "Journée internationale des personnes en situation de handicap",
+    "description": "Sensibilisation aux droits des personnes en situation de handicap.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "12-06",
+    "title": "Jour de la Constitution espagnole",
+    "description": "Fête nationale espagnole.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "12-08",
+    "title": "Jour de l'Immaculée Conception",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  },
+  {
+    "date": "12-25",
+    "title": "Jour de Noël",
+    "description": "Jour férié en Espagne.",
+    "country": "Espagne",
+    "image": null
+  }
+]
