@@ -18,7 +18,7 @@ out/
 # Gradle files
 .gradle/
 build/
-app/build/
+app-android/app/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -85,3 +85,9 @@ capturas/
 
 # Iconos del proyecto (no fuente)
 iconos/
+
+# Node.js
+node_modules/
+
+# Web build
+app-web/dist/
